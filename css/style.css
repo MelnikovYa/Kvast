@@ -217,13 +217,13 @@ ul {
   background: url("../img/spritesheet.png") no-repeat;
 }
 .container-advantages li:first-child::before {
-  background-position: -5px -85px;
+  background-position: -25px -185px;
 }
 .container-advantages li:nth-child(2)::before {
-  background-position: -5px -163px;
+  background-position: -25px -303px;
 }
 .container-advantages li:last-child::before {
-  background-position: -5px -238px;
+  background-position: -25px -418px;
 }
 /* history*/
 .history {
